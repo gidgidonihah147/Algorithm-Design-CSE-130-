@@ -10,8 +10,8 @@
 #      Going back and commenting throughout the assignment. With simple programs like this, I find myself not commenting where I should, and like I do with more complex programs.
 #      I need to get back in the habbit of commenting as I go no matter what.
 # 5. How long did it take for you to complete the assignment?
-#      Writing assignment - 25 minutes, adding comments - 5 minutes, Recording video - 
-#      Total time - 
+#      Writing assignment - 25 minutes, adding comments - 5 minutes, Recording video - 8 Minutes
+#      Total time - 38 Minutes
 import json
 
 # Attempt to open the JSON file and load the data
